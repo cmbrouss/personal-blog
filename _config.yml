@@ -1,11 +1,10 @@
-title: Taylor Steinberg
-email: taylor@steinberg.xyz
+title: Candace Broussard
+email: broussardcandace@ymail.com
 description: >-
-  This is the personal blog of Taylor Steinberg
+  This is the personal blog of Candace Broussard
 baseurl: "/"
-url: "blog.taylorsteinberg.com"
-twitter_username: tdstein
-github_username:  tdstein
+url: "cmbrouss.github.io/personal-blog"
+github_username:  cmbrouss
 
 # Build settings
 markdown: kramdown
